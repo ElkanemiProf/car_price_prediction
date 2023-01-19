@@ -1,0 +1,1 @@
+This app predicts the prices of cars in Nigeria. Built with streamlit. Used linear regression model
